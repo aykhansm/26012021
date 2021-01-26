@@ -1,0 +1,13 @@
+C:\Users\V-COMP\Desktop\26012021\260120211\260120211\bin\Debug\netcoreapp3.1\260120211.exe
+C:\Users\V-COMP\Desktop\26012021\260120211\260120211\bin\Debug\netcoreapp3.1\260120211.deps.json
+C:\Users\V-COMP\Desktop\26012021\260120211\260120211\bin\Debug\netcoreapp3.1\260120211.runtimeconfig.json
+C:\Users\V-COMP\Desktop\26012021\260120211\260120211\bin\Debug\netcoreapp3.1\260120211.runtimeconfig.dev.json
+C:\Users\V-COMP\Desktop\26012021\260120211\260120211\bin\Debug\netcoreapp3.1\260120211.dll
+C:\Users\V-COMP\Desktop\26012021\260120211\260120211\bin\Debug\netcoreapp3.1\260120211.pdb
+C:\Users\V-COMP\Desktop\26012021\260120211\260120211\obj\Debug\netcoreapp3.1\260120211.csprojAssemblyReference.cache
+C:\Users\V-COMP\Desktop\26012021\260120211\260120211\obj\Debug\netcoreapp3.1\260120211.AssemblyInfoInputs.cache
+C:\Users\V-COMP\Desktop\26012021\260120211\260120211\obj\Debug\netcoreapp3.1\260120211.AssemblyInfo.cs
+C:\Users\V-COMP\Desktop\26012021\260120211\260120211\obj\Debug\netcoreapp3.1\260120211.csproj.CoreCompileInputs.cache
+C:\Users\V-COMP\Desktop\26012021\260120211\260120211\obj\Debug\netcoreapp3.1\260120211.dll
+C:\Users\V-COMP\Desktop\26012021\260120211\260120211\obj\Debug\netcoreapp3.1\260120211.pdb
+C:\Users\V-COMP\Desktop\26012021\260120211\260120211\obj\Debug\netcoreapp3.1\260120211.genruntimeconfig.cache

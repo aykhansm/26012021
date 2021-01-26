@@ -13,8 +13,14 @@ namespace ConsoleApp26012020
         {
 
 
-            string str = "Ayxan Ismayilzade burdadirmi?";
-            str.Trim();
+
+            Console.WriteLine(return2words("Ayxan Ismayilzade burdadirmi?"));
+           
+        }
+        static string return2words(string str)
+        {
+            
+            str=str.Trim();
             string str1;
             int counter = 0;
 
@@ -27,21 +33,13 @@ namespace ConsoleApp26012020
             }
             if (counter == 0)
             {
-                Console.WriteLine(str);
-                return;
+                return str;
             }
-            str1 = str.Substring(0, str.IndexOf(' ')) + str.Substring(str.LastIndexOf(' '));
-            Console.WriteLine(str1);
+            
+                str1 = str.Substring(0, str.IndexOf(' ')) + str.Substring(str.LastIndexOf(' '));
+                return str1;
+            
 
-
-            #region 2ci mesele
-
-
-
-
-
-
-            #endregion
         }
     }
 }
